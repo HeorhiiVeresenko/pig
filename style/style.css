@@ -1,0 +1,120 @@
+.head{
+    height: 600px;
+    width: 600px;
+    border-radius: 100%;
+    background: pink;
+    position: relative;
+    left: 400px;
+    top: 250px;
+    border: 2px solid black;
+}
+.eyrs-first{
+    width: 125px;
+    height: 175px;
+    border-radius: 75%;
+    background: pink;
+    border: 2px solid black;
+    position: absolute;
+    left: 450px;
+    top: 200px;
+}
+.eyrs-second{
+    width: 125px;
+    height: 175px;
+    border-radius: 75%;
+    background: pink;
+    border: 2px solid black;
+    position: absolute;
+    left: 825px;
+    top: 200px;
+}
+.eyefirst{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 100%;
+    border: 2px solid black;
+    position: relative;
+    left: 100px;
+    top: 125px;
+}
+.eyesecond{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 100%;
+    border: 2px solid black;
+    position: relative;
+    left: 380px;
+    top: 20px;
+}
+.blackeye1{
+    width: 50px;
+    height: 50px;
+    background: black;
+    border-radius: 100%;
+    border: 2px solid black;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+.blackeye2{
+    width: 50px;
+    height: 50px;
+    background: black;
+    border: 2px solid black;
+    border-radius: 100%;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+.nouse{
+    height: 100px;
+    width: 250px;
+    border-radius: 75%;
+    background: rgb(238, 126, 144);
+    border: 2px solid black;
+    position: relative;
+    left: 165px;
+    top: 50px;
+}
+.blackcircle1{
+    width: 50px;
+    height: 50px;
+    background: black;
+    border: 2px solid black;
+    border-radius: 100%;
+    position: absolute;
+    left: 40px;
+    top: 15px;
+}
+.blackcircle2{
+    width: 50px;
+    height: 50px;
+    background: black;
+    border: 2px solid black;
+    border-radius: 100%;
+    position: absolute;
+    left: 150px;
+    top: 15px;
+}
+.mouse{
+    width: 400px;
+    height: 100px;
+    background: rgb(245, 156, 172);
+    border: 2px solid black;
+    border-radius: 75%;
+    position: relative;
+    left: 100px;
+    top: 80px;
+}
+.tongue{
+    width: 100px;
+    height: 200px;
+    border-radius: 75%;
+    border: 2px solid black;
+    background: rgb(166, 53, 53);
+    position: absolute;
+    left: 170px;
+    transform: rotate(-50deg);
+}
